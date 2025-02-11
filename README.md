@@ -50,17 +50,5 @@ Three regression models were tested to predict future credit consumption:
 - **Machine Learning (Random Forest, Decision Trees, Linear Regression)**
 - **Data Visualization (SAS Visual Analytics, Matplotlib, Seaborn)**
 
-## 📌 Installation & Usage
-To run this project:
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/credit-consumption-prediction.git
-
-# Navigate to the project directory
-cd credit-consumption-prediction
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the analysis script
-python main.py
+# Open the Jupyter Notebook
+jupyter notebook "Credit card-checkpoint.ipynb"
